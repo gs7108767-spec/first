@@ -1,2 +1,1 @@
-# first
-HELLO MOTTO
+HELLO MOTTo
